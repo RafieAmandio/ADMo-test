@@ -55,6 +55,7 @@ def setb_1(list1, list2):
    - **Expected:** `[1, 2, 3, 7]`
 
 ### Testcase Result
+![image](https://github.com/user-attachments/assets/4bb8eb1c-28e4-4fd3-a89a-9d02acb65c2b)
 
 
 ## (Set B) No.2 SQL
@@ -122,3 +123,23 @@ WHERE salary = (SELECT MIN(salary) FROM employees);
 ```
 
 ### Test Result
+Test 1
+![image](https://github.com/user-attachments/assets/bc53539c-d77e-48f3-b1a3-6b3fc142efab)
+
+Test 2
+![image](https://github.com/user-attachments/assets/fb7a940b-7a21-49a8-826b-3540cd8cb4a8)
+
+Test 3
+![image](https://github.com/user-attachments/assets/0cb7559f-50c2-4f2f-a7b2-44eaed06d21d)
+
+Test 4
+![image](https://github.com/user-attachments/assets/52a7d196-e57c-41b1-8ea4-368c3a6a9213)
+
+Test 5
+![image](https://github.com/user-attachments/assets/5b69b356-ea1b-4406-bee4-4c4ce7d5b0d6)
+
+Test 6
+![image](https://github.com/user-attachments/assets/dc93037b-a268-44c7-808a-d314a4ae195c)
+
+
+
